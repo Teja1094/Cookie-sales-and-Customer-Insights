@@ -18,3 +18,6 @@ A star schema data model was implemented with a central sales fact table connect
 Conclusion
 
 The dashboard provides a comprehensive view of sales and customer insights, enabling better business decisions. It can be further enhanced with advanced analytics and real-time data integration for deeper insights.
+
+<img width="811" height="451" alt="Screenshot 2026-04-24 093032" src="https://github.com/user-attachments/assets/73627e56-9fd3-491d-ac93-4a9ab0d283aa" />
+
